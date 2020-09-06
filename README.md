@@ -1,4 +1,4 @@
-# Regrassao-Linear---Alura
+# Regressao-Linear---Alura
 Modelo de regressão linear criado durante o curso de Regressão Linear da Alura
 
 ## O Dataset e o Projeto
