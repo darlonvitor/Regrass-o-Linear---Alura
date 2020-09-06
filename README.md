@@ -1,5 +1,5 @@
 # Regressao-Linear---Alura
-Modelo de regressão linear criado durante o curso de Regressão Linear da Alura
+Modelo de regressão linear criado  com <a href = "https://colab.research.google.com/">Colaboratory</a> durante o curso de Regressão Linear da Alura
 
 ## O Dataset e o Projeto
 <hr>
